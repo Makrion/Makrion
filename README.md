@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi there! My name is Michael. 👋🏻</h2>
-<p align="center"> I'm a computer engineering student and a backend developer. Currently, I am passionate about web development, and machine learning. coding and building stuff is my life 😄</p>
+<p align="center"> I'm a computer engineering student and a backend developer. Currently, I am passionate about web development and machine learning. coding and building stuff is my life 😄</p>
 
 </br>
 
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <div  align="center">
 <!--   <img align=right src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=Makrion" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=Makrion&langs_count=14&layout=compact&hide=css,html,typescript,scss,c,objective-c,jupyter%20notebook&exclude_repo=" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=Makrion&langs_count=14&layout=compact&hide=css,html,typescript,scss%20notebook&exclude_repo=" />
 </div>
 
