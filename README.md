@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <!--   <img align=right src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=Makrion" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=Makrion&langs_count=14&layout=compact&hide=css,html,typescript,scss%20notebook&exclude_repo=" />
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Makrion&label=Profile%20views&color=0e75b6&style=flat" alt="Makrion" /> </p>
