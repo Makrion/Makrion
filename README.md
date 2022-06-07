@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi there! My name is Michael. 👋🏻</h2>
-<p align="center"> I'm a computer engineering student and a backend developer. Currently, I am passionate about web development and machine learning. coding and building stuff is my life 😄.</p>
-<p align="left">
-📫 How to reach me: miklaziz122000@gmail.com
-</p>
+<p align="center"> I'm a computer engineering student and a backend developer. Currently, I am passionate about web
+    development and machine learning. coding and building stuff is my life 😄.</p>
+<address align=left>
+    📫 How to reach me: <a href="mailto:miklaziz122000@gmail.com">Makrion</a>
+</address>
 
 </br>
 
@@ -32,6 +33,12 @@ Here are some ideas to get you started:
 <img alt="Bootstrap"  height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"> &nbsp; &nbsp;
 <img alt="Flask"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"> &nbsp; &nbsp;
 </div>   -->
-<a href="https://github.com/Makrion/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
+</br>
+<hr>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=Makrion&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
+            alt="Anurag's github stats" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makrion&langs_count=10&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
