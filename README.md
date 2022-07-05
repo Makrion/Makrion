@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 </div>   -->
 </br>
 <hr>
+<!-- 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
             src="https://github-readme-stats.vercel.app/api?username=Makrion&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
@@ -42,3 +43,4 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makrion&langs_count=10&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
+-->
