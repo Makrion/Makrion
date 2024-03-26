@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi there! My name is Michael. 👋🏻</h2>
-<p align="center"> I'm a computer engineering student and a backend developer. Currently, I am passionate about web
-    development and machine learning. coding and building stuff is my life 😄.</p>
+<h2 align="center">Hi there! it's Michael. 👋🏻</h2>
+    <p align="center"> 
+        Backend engineer </br>
+        CUFE23 </br> 
+        Bug squasher </br>
+        Coding and building stuff is my life 🌱😄
+    </p>
 <address align=left>
     📫 How to reach me: <a href="mailto:miklaziz122000@gmail.com">Makrion</a>
 </address>
