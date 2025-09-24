@@ -19,7 +19,7 @@ Here are some ideas to get you started:
         Backend engineer </br>
         CUFE23 </br> 
         Coding and building stuff is my life 🌱😄</br>
-        You will find me normally playing around with RubyOnRails, GOlang and Laravel 🫣 😄
+        You will find me normally playing around with RubyOnRails, Golang and Laravel 🫣 😄
     </p>
 <address align=left>
     📫 How to reach me: <a href="mailto:miklaziz3112000@gmail.com">Michael Daud</a>
