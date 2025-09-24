@@ -18,11 +18,11 @@ Here are some ideas to get you started:
     <p align="center"> 
         Backend engineer </br>
         CUFE23 </br> 
-        Bug squasher </br>
         Coding and building stuff is my life 🌱😄
+        You will find me normally playing around with RubyOnRails, GOlang and Laravel 🫣 😄
     </p>
 <address align=left>
-    📫 How to reach me: <a href="mailto:miklaziz122000@gmail.com">Makrion</a>
+    📫 How to reach me: <a href="mailto:miklaziz3112000@gmail.com">Michael Daud</a>
 </address>
 
 </br>
