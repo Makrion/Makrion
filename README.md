@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <p align="center"> 
         Backend engineer </br>
         CUFE23 </br> 
-        Coding and building stuff is my life 🌱😄
+        Coding and building stuff is my life 🌱😄</br>
         You will find me normally playing around with RubyOnRails, GOlang and Laravel 🫣 😄
     </p>
 <address align=left>
